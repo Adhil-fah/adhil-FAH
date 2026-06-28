@@ -8,17 +8,17 @@
 
 ---
 
-### 💫 About Me
+### >> About Me
 
 I am a highly motivated **Artificial Intelligence and Machine Learning undergraduate** and **Full-Stack Developer**. I specialize in building responsive user interfaces, designing robust database schemas, and deploying client-side computer vision and machine learning models. I excel at turning complex, administrative workflows into clean, highly interactive applications.
 
-- 🧠 Currently pursuing my **B.Sc. in AI & ML** at Nehru Arts and Science College.
-- 🚀 Deeply passionate about full-stack architectures, real-time tracking ecosystems, and computer vision.
-- 🛠️ Constantly exploring intelligent design patterns and keeping pace with modern web and software tools.
+- > Currently pursuing my **B.Sc. in AI & ML** at Nehru Arts and Science College.
+- > Deeply passionate about full-stack architectures, real-time tracking ecosystems, and computer vision.
+- > Constantly exploring intelligent design patterns and keeping pace with modern web and software tools.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### >> Tech Stack & Ecosystem
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -29,15 +29,15 @@ I am a highly motivated **Artificial Intelligence and Machine Learning undergrad
 
 ---
 
-### 🚀 Key Projects
+### >> Key Projects
 
-#### 🏢 **XamPro — College Examination Management Platform**
+#### > **XamPro — College Examination Management Platform**
 * **Tech Stack:** TypeScript, PostgreSQL, Tailwind CSS
 * Built an institutional platform automating examination workflows including student roll processing, hall ticket layout generation, and seating arrangements.
 * Implemented secure, role-based authentication interfaces for admins, internal/external staff, and students.
 * Designed a relational database schema to handle structured academic records, mark entries, and internal assessments.
 
-#### 👁️ **Fair Protector AI — Live Proctoring System**
+#### > **Fair Protector AI — Live Proctoring System**
 * **Tech Stack:** HTML5, JavaScript, TensorFlow.js, MediaPipe
 * Developed a client-side examination monitoring portal using browser-based webcam streaming.
 * Integrated client-side object detection models to identify authorized or unauthorized elements in real time.
@@ -58,7 +58,7 @@ I am a highly motivated **Artificial Intelligence and Machine Learning undergrad
 
 ---
 
-### 🤝 Let's Connect
+### >> Let's Connect
 
 <p align="left">
   <a href="mailto:aadhilfahim40@gmail.com">
