@@ -12,7 +12,6 @@
 
 I am a highly motivated **Artificial Intelligence and Machine Learning undergraduate** and **Full-Stack Developer**. I specialize in building responsive user interfaces, designing robust database schemas, and deploying client-side computer vision and machine learning models. I excel at turning complex, administrative workflows into clean, highly interactive applications.
 
-- > Currently pursuing my **B.Sc. in AI & ML** at Nehru Arts and Science College.
 - > Deeply passionate about full-stack architectures, real-time tracking ecosystems, and computer vision.
 - > Constantly exploring intelligent design patterns and keeping pace with modern web and software tools.
 
